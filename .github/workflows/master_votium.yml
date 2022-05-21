@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Votium'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_482255564EB543899F8E5D843E50E53A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_78F053994F284DD1BFC4D920AF98BDB9 }}
           package: .
